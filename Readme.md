@@ -11,7 +11,6 @@ It is a simple Dice Game. We can use this game to toss between two users and dec
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
-
 <br>
 
 ### How to use 
@@ -29,4 +28,4 @@ The Results maybe :
 
 ![Tie](images/DiceGame3.png)
 
-## Happy Coding!
+
